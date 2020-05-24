@@ -1,0 +1,3 @@
+obj\Debug\netcoreapp3.0/CompanyJobEducation.cs \
+obj\Debug\netcoreapp3.0/CompanyJobEducationGrpc.cs: C:/Users/sonym/.nuget/packages/grpc.tools/2.27.0/build/native/include/google/protobuf/empty.proto\
+ Protos/CompanyJobEducation.proto

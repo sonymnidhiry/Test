@@ -1,0 +1,4 @@
+obj\Debug\netcoreapp3.0/CompanyProfile.cs \
+obj\Debug\netcoreapp3.0/CompanyProfileGrpc.cs: C:/Users/sonym/.nuget/packages/grpc.tools/2.27.0/build/native/include/google/protobuf/empty.proto\
+ C:/Users/sonym/.nuget/packages/grpc.tools/2.27.0/build/native/include/google/protobuf/timestamp.proto\
+ Protos/CompanyProfile.proto
